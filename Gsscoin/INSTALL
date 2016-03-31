@@ -1,0 +1,9 @@
+Building Gsscoin
+
+See doc/readme-qt.rst for instructions on building Gsscoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gsscoin.
+
+See doc/build-*.txt for instructions on building Gsscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gsscoin.
